@@ -17,3 +17,5 @@ A simple AI-powered tool that helps summarize meetings and extract important inf
 2. View upload logs (size & time).
 3. Let the AI detect speakers and process the content.
 4. Get the meeting summary, key points, and action items instantly.
+
+LIVE RUNNING APP LINK :- https://choudharynipun-meeting-summarizer-app-avtjfw.streamlit.app/

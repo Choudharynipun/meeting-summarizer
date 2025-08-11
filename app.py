@@ -382,7 +382,7 @@ def main():
     st.markdown("""
     <div style="text-align: center; color: #666; margin-top: 2rem;">
         <p>🎙️ Meeting Audio Summarizer • Powered by OpenAI Whisper & GPT</p>
-        <p style="font-size: 0.9rem;">Make sure your OPENAI_API_KEY environment variable is set</p>
+        <p style="font-size: 0.9rem;">Contact- Nipunchoudhary44@gmail.com</p>
     </div>
     """, unsafe_allow_html=True)
 

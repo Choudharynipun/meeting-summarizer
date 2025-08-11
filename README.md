@@ -1,7 +1,7 @@
 # Meeting Summarizer
 
-A simple AI-powered tool that helps summarize meetings and extract important information.
-
+A simple, easy to use, stateless and monolithic AI-powered tool that helps summarize meetings and extract important information.
+UPLOAD-> PROCESS-> GET INSIGHTS
 ## Features
 
 - **File Upload Logging** – Shows the uploaded file size and upload time for reference.

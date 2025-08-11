@@ -1,6 +1,7 @@
 # Meeting Summarizer
 
 A simple, easy to use, stateless and monolithic AI-powered tool that helps summarize meetings and extract important information.
+
 UPLOAD-> PROCESS-> GET INSIGHTS
 ## Features
 
